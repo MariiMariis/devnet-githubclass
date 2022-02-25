@@ -19,6 +19,6 @@ def scan_parti():
     print("Sistema de arquivos:", nome[0][2])
     print("Total de Armazenamento:", round(armazenamento[0]/(1024*1024*1024),2), 'GB')
     print("Total de Armazenamento Disponível:", round(armazenamento[2]/(1024*1024*1024),2), 'GB')
-    print(armazenamento)
 scan_parti()
 
+#Teste de versionamento
